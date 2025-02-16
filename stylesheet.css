@@ -1,0 +1,37 @@
+h1{
+  text-align:center;
+  font-family:Merriweather;
+  margin: 50px 30px -10px 50px;
+  font-size:  48px;;
+  color: #2d2d2d;
+
+}
+h2{
+  font-family:Merriweather;
+  font-size:30px;
+}
+blockquote{
+ text-align:justify;
+ font-family:poppins;
+}
+p{
+  text-align:justify;
+  font-family:poppins;
+}
+div{
+  background-color:white;
+  margin:50px 80px;
+  padding: 20px 40px 30px;
+  box-shadow: 10px 10px 10px #1d3c59;
+  background-image: url('https://www.transparenttextures.com/patterns/paper.png');
+  border-radius: 10px;
+}
+sup{
+  font-family:Georgia;
+}
+body{
+  background-color:#dcddd8
+}
+img {
+  text-align: center;
+}
