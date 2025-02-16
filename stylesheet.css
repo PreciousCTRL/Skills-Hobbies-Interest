@@ -35,3 +35,7 @@ body{
 img {
   text-align: center;
 }
+mark{
+  background-color:#1d3c59;
+  color:white;
+}
